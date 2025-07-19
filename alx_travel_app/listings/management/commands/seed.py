@@ -5,7 +5,7 @@ Serializers for Listing and Booking models.
 
 from rest_framework import serializers
 
-from alx_travel_app.alx_travel_app.listings.models import Listing, Booking
+from alx_travel_app.listings.models import Listing, Booking
 
 
 class ListingSerializer(serializers.ModelSerializer):
