@@ -1,5 +1,5 @@
 """
-WSGI config for alx_travel_app_1 project.
+WSGI config for alx_travel_app project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
